@@ -64,7 +64,7 @@ A  B  S1  ~A  ~B  ~A.~B  ~(~A.~B)  S2
 
 Analisando as tabelas verdade de S1 e S2, podemos observar que elas possuem as mesmas colunas de A, B e S. Além disso, as colunas de ~A e ~B são equivalentes às colunas ~A.~B e ~(~A.~B), respectivamente. Portanto, podemos concluir que S1 = A+B e S2 = ~(~A.~B) são equivalentes.
 
-##Exercício 4
+## Exercício 4
 
 Obtenha a expressão de X:
 
@@ -74,14 +74,14 @@ B) (A.B)+C
 C) ~A.B
 D) (~A.~B)
 ```
-##Exercício 5
+## Exercício 5
 
 ```
 A) (~A+B+C) + (~A.~D)
 B) (((~A.~B) + C).D) + E
 ```
 
-##Exercício 6
+## Exercício 6
 
 ```
 X = (~A+B).(B+C)
@@ -101,7 +101,7 @@ X = (~A+B).(B+C)
 
 ```
 
-##Exercício 7
+## Exercício 7
 
 ![image](https://user-images.githubusercontent.com/57176998/231189873-29e393cb-0a4d-4855-83d3-3e141a7424fb.png)
 
